@@ -23,7 +23,8 @@
   },
   "homepage": "https://github.com/justjs/eslint-config-justjs#readme",
   "peerDependencies": {
-    "eslint": ">= 3"
+    "eslint": ">= 3",
+    "eslint-plugin-es5": ">= 1.4.1"
   },
   "devDependencies": {}
 }
