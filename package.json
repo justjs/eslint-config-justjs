@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-justjs",
-  "version": "0.1.0-rc.1",
+  "version": "0.1.0-rc.2",
   "description": "Eslint config for JustJs.",
   "private": true,
   "main": "index.js",
