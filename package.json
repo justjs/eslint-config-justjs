@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config-justjs",
+  "version": "0.0.0",
+  "description": "Eslint config for JustJs.",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justjs/eslint-config-justjs.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "justjs"
+  ],
+  "author": "Alexis Puga Ruíz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/justjs/eslint-config-justjs/issues"
+  },
+  "homepage": "https://github.com/justjs/eslint-config-justjs#readme",
+  "peerDependencies": {
+    "eslint": ">= 3"
+  },
+  "devDependencies": {}
+}
